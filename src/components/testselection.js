@@ -23,11 +23,13 @@ const TestSelection = () => {
         <Navbar />
         <SideNav />
         <div className="select-out">
-        <h1 className="documtt">Choose a Customizable typingTEST from different tests available</h1>
+        <h1 className="documtt">Choose a Customizable typingTEST from different<br></br> tests available</h1>
             <div className="select-cont">
                 <div className="mediumt">
                     <img src={image1} alt="a colourfull image"></img>
-                    <p className="tselect">This is a MEDIUM typing test  where you will not find much difficulty and can take it easily, suitable for begginers.<br></br>MEDIUM<br></br><hr></hr> It is the data from NASA so you are also going to learn some amazing fact sabout Universe. </p>
+                    {/* <p className="tselect">This is a MEDIUM typing test  where you will not find much difficulty and can take it easily, suitable for begginers.<br></br> */}
+                    MEDIUM
+                    {/* <br></br><hr></hr> It is the data from NASA so you are also going to learn some amazing fact sabout Universe. </p> */}
                     <div className="select-time">
                         <NavLink class="nav-link active" aria-current="page" to="/typingtest">
                             <button type="button" className="btn1">1 MIN</button>
@@ -43,8 +45,10 @@ const TestSelection = () => {
                 </div>
                 <div className="codingt">
                     <img src={image2} alt="a colourfull image"></img>
-                    <p className="tselect">It is a CODING typing test, in it you will be basically practising how to write code faster. It is different from medium test as typing of normal text and programming text is different.<br></br>CODING<br></br><hr></hr>
-                    You will find it interesting as it contains the JAVASCRIPT codes which will help you to learn the syntax of it. </p>
+                    {/* <p className="tselect">It is a CODING typing test, in it you will be basically practising how to write code faster. It is different from medium test as typing of normal text and programming text is different.<br></br> */}
+                    CODING
+                    {/* <br></br><hr></hr>
+                    You will find it interesting as it contains the JAVASCRIPT codes which will help you to learn the syntax of it. </p> */}
                     <div className="select-time">
                         <NavLink class="nav-link active" aria-current="page" to="/typingtest4">
                             <button type="button" className="btn1">1 MIN</button>
@@ -61,7 +65,9 @@ const TestSelection = () => {
                 <div className="blind"></div>
                 <div className="hardt">
                 <img src={image3} alt="a colourfull image"></img>
-                    <p className="tselect">It is a Hard typing test as words or sentences used here are not common in real world. It contains LOREM IPSUM text which is quite a bit difficult to read and write which makes it a difficult typing test.<br></br>HARD<br></br><hr></hr> Y might find it interesting as you will get to kearn something new from it. </p>
+                    {/* <p className="tselect">It is a Hard typing test as words or sentences used here are not common in real world. It contains LOREM IPSUM text which is quite a bit difficult to read and write which makes it a difficult typing test.<br></br>
+                    HARD */}
+                    {/* <br></br><hr></hr> Y might find it interesting as you will get to kearn something new from it. </p> */}
                     <div className="select-time">
                         <NavLink class="nav-link active" aria-current="page" to="/typingtest7">
                             <button type="button" className="btn1">1 MIN</button>

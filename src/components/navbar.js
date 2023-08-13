@@ -10,7 +10,7 @@ const Navbar = () => {
       <section className="navbar-bg margin-50">
         <nav class="navbar navbar-expand-lg navbar-light ">
           <div class="container">
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand text-light font-weight-bolder	" href="/">
               typingGEEKS
             </a>
 
@@ -30,22 +30,22 @@ const Navbar = () => {
             <div class={`collapse navbar-collapse ${show ? "show" : ""}`}>
               <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <NavLink class="nav-link" aria-current="page" to="/testselection">
+                  <NavLink class="nav-link text-light" aria-current="page" to="/testselection">
                     typingTEST
                   </NavLink>
                 </li>
                 <li class="nav-item">
-                  <NavLink class="nav-link" to="/gameselection">
+                  <NavLink class="nav-link text-light" to="/gameselection">
                     typingGAME
                   </NavLink>
                 </li>
                 <li class="nav-item">
-                  <NavLink class="nav-link" to="/about">
+                  <NavLink class="nav-link text-light" to="/about">
                     About
                   </NavLink>
                 </li>
                 <li class="nav-item">
-                  <NavLink class="nav-link" to="/contact">
+                  <NavLink class="nav-link text-light" to="/contact">
                     Contact Us
                   </NavLink>
                 </li>

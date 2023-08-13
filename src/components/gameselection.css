@@ -29,6 +29,7 @@ flex-wrap: wrap;
 
 .game-img {
     border-radius: 5px;
+    height: 250px;
 }
 .mode
 {
@@ -45,4 +46,8 @@ flex-wrap: wrap;
     font-weight: bold;
     box-shadow: 10px 10px 8px #888888;
     background: linear-gradient(30deg, #000080 0%, #72007f 16%, #bc0070 33%, #ff2447 50%, #ff8a0c 66%, #ffc800 83%, #ffff00 100%);
+}
+.height-auto {
+margin-top: -5px;
+margin-bottom: 20px;
 }

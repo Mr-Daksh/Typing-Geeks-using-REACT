@@ -1,6 +1,6 @@
 .select-cont {
     display: flex;
-    padding: 2rem 1rem 2rem 13%;
+    padding: 1rem 1rem 2rem 13%;
     /* background-color: #ffdb58; */
     border: 5px solid #FFA500;
     border-radius: 10px;
@@ -15,7 +15,7 @@
     /* background-image: url(./images/test-bg.jpg); */
     font-weight: bold;
     padding: 1.5rem;
-    height: 46rem;
+    height: 23rem;
     box-shadow: 10px 10px 8px #888888;
 }
 .codingt {
@@ -24,7 +24,7 @@
     padding: 1rem;
     font-size: 1.5rem;
     flex: 1 0 30%;
-    height: 60rem;
+    height: 25rem;
     color: #bd4b4b;
     background-color: black;
     border: 2px solid black;
@@ -62,9 +62,10 @@
     padding-bottom: 0;
     padding-top: 5rem;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 40px;
   background-color: whitesmoke;
   border-radius: 10px;
+  margin-bottom: 0;
 }
 .btn3 {
     transform: translate(10rem, -8rem);

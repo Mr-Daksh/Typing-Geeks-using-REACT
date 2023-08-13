@@ -12,7 +12,7 @@ const Article = () => {
                     <div className="article-container">
                         <div className="article">
                             <div className="profile">
-                                <h3>Why Average Typing Speed Is Important?</h3>
+                                <h3>Why Typing Speed Is Important?</h3>
                                 <h4>~Adam Fort</h4>
                             </div>
                             <div className="art-txt">Summary: Touch typing is a "must have" skill in our digital world. After reading this article, you will know what is average typing speed for men and women, why it's important to overcome these results, and how it may help to make your life easier. Average Typing Speed: Why Is Is Important?

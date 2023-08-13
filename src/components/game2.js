@@ -137,7 +137,7 @@ class Game1 extends React.Component {
             <SideNav />
             <Navbar />
             <div className="app-container">
-                <h1>Choose a Customizable game from different modes available</h1>
+                {/* <h1>Choose a Customizable game from different modes available</h1> */}
                 <div>
                     <div className="g-ess">
                     <h1>Word Beater</h1>

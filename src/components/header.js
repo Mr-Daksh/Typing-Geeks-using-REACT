@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "./images/logo.png";
+import logo from "./images/8e01a6b6-58f9-404d-9eca-77678f3ff5c1.png";
 import "./header.css";
 import App1 from "./App1/App1";
 import { NavLink } from "react-router-dom";
@@ -18,6 +18,10 @@ const Header = () => {
                 </div>
                 <div className="right-side">.
                     {/* <App1 /> */}
+                    <NavLink to="/testselection">
+                    <img  src={logo} alt="a colourfull image"></img>
+                    <h1>Begin the Expedition!</h1>
+                </NavLink>
                 </div>
             </div>
             <div className="logo">
