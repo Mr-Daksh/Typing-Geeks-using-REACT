@@ -1,0 +1,44 @@
+.key-cont {
+    display: flex;
+    padding: 2rem 2rem 2rem 13%;
+}
+.key-img {
+    width: 25%;
+    height: 30%;
+    align-self: center;
+    box-shadow: 10px 10px 8px #888888;
+}
+.k-cont {
+    display: flex;
+    padding: 1rem;
+    border: 1px solid black;
+    background-color: #f3f2c9;
+    border-radius: 5px;
+}
+.k1, .k3 {
+    flex: 1 1 25%;
+    background-color: #003638;
+    color: #f3f2c9;
+    /* border: 2px solid #53b8bb; */
+    border-radius: 10px;
+    padding: 0.5rem;
+    box-shadow: 10px 10px 8px #888888;
+
+}
+.k2 {
+    flex: 1 1 15%;
+    align-self: center;
+    padding: 0.5rem;
+    background-color: #f3f2c9;
+    color: #003638;
+    box-shadow: 10px 10px 8px #888888;
+}
+ .k3 p {
+    color: #f3f2c9;
+}
+.k1 p {
+    color: #f3f2c9;
+}
+.key-txt {
+    font-size: 1.5rem;
+}

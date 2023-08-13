@@ -1,0 +1,42 @@
+.f-cont {
+    display: flex;
+    padding-left: 15%;
+    flex-wrap: wrap;
+    margin: 3rem;
+    background-image: url("./images/test-bg.jpg");
+}
+.f-image {
+    width: 5rem;
+    display: inline-block;
+    padding-right: 1rem;
+}
+p {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.f1, .f2, .write {
+    padding: 1rem;
+    background-color: blanchedalmond;
+    border: 2px solid #b68973;
+    border-radius: 5px;
+    margin: 1rem;
+    flex: 1 1 30%;
+    
+    box-shadow: 10px 10px 8px #888888;
+}
+.f-image-round {
+    width: 2rem;
+    display: inline-block;
+    padding-right: 1rem;
+    border-radius: 50%;
+}
+.feed {
+    font-size: 2rem;
+}
+.write{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 1.5rem;
+}

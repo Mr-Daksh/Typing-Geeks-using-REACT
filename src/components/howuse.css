@@ -1,0 +1,16 @@
+.use-cont {
+    display: flex;
+    padding: 2rem 2rem 2rem 15%;
+    /* flex-wrap: wrap; */
+}
+.use-quest {
+    flex: 1 0 65%;
+    display: flex;
+}
+.use-img {
+    flex: 0 1 20rem;
+    width: 20rem;
+}
+.quest1 {
+    flex: 0 1 30%;
+}

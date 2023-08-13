@@ -1,0 +1,17 @@
+.keylay {
+    display: flex;
+    padding: 2rem 2rem 2rem 15%;
+    background-color: blanchedalmond;
+    margin: 5rem;
+}
+.keylay-img {
+    width: 25rem;
+    /* padding: 1rem; */
+}
+.key-txt{
+    padding: 2rem;
+}
+.a {
+    
+    box-shadow: 10px 10px 8px #888888;
+}

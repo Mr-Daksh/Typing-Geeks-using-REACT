@@ -1,0 +1,48 @@
+.game-select {
+flex-wrap: wrap;
+    display: flex;
+    padding: 2rem 2rem 3rem 15%;
+    padding-top: 5rem;
+}
+.easy, .medium, .hard {
+    flex: 1 0 25%;
+    background-color: #ffdb58;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 10px 10px 8px #888888;
+}
+.documt {
+    /* padding-left: 10%; */
+    padding-bottom: 0;
+    margin-top: 0rem;
+  font-weight: bold;
+  font-size: 50px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+.game-txt {
+    /* border: 1px solid black; */
+    /* padding: 0.2rem; */
+    margin: 2rem;
+    /* border-radius: 10px; */
+}
+
+.game-img {
+    border-radius: 5px;
+}
+.mode
+{
+    border: 2px solid black;
+    background-color: black;
+    color: cornsilk;
+    padding: 1rem;
+    transform: translateY(-5rem);
+    box-shadow: 10px 10px 8px #888888;
+}
+.strt {
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    box-shadow: 10px 10px 8px #888888;
+    background: linear-gradient(30deg, #000080 0%, #72007f 16%, #bc0070 33%, #ff2447 50%, #ff8a0c 66%, #ffc800 83%, #ffff00 100%);
+}

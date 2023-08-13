@@ -1,0 +1,28 @@
+.fact-container {
+    display: flex;
+    margin: 5rem 0rem 3rem 0rem;
+    /* box-sizing: border-box; */
+    background-color: black;
+    padding: 2rem 2rem 2rem 13rem;
+    border-radius: 10px;
+  }
+  
+  .num-values, .fact-generator {
+      flex: 1 0 40%;
+      padding: 2rem;
+      margin: 1rem;
+      color: #eeeeee;
+      border: 1px solid #bd4b4b;  
+      border-radius: 10px;
+      
+    box-shadow: 10px 10px 8px #888888;
+  }
+  .inline-div{
+    display: inline-block;
+    padding: 1rem;
+    border: 1px solid black;
+  }
+  .fact-container h1 {
+    color: whitesmoke;
+    display: block;
+  }

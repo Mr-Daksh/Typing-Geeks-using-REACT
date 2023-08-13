@@ -1,0 +1,8 @@
+.join-cont {
+    display: flex;
+    padding: 3rem 2rem 2rem 15%;
+    justify-content: center;
+}
+.join-img {
+    width: 20%;
+}
