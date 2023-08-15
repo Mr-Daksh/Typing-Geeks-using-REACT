@@ -24,6 +24,8 @@ Welcome to **Typing Geeks**, your go-to place to enhance your typing skills and 
 
 ## Screenshots
 
+![Screenshot of Project](src/components/screenshot/f329fb7a-4a69-4505-b652-7641d85212bf.png)
+
 
 ## Usage
 
