@@ -24,7 +24,25 @@ Welcome to **Typing Geeks**, your go-to place to enhance your typing skills and 
 
 ## Screenshots
 
-![Screenshot of Project](src/components/screenshot/f329fb7a-4a69-4505-b652-7641d85212bf.png)
+<!-- ![Screenshot of Project](src/components/screenshot/f329fb7a-4a69-4505-b652-7641d85212bf.png) -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="src/components/screenshot/f329fb7a-4a69-4505-b652-7641d85212bf.png" alt="Screenshot 1" width="300">
+    </td>
+    <td align="center">
+      <img src="src/components/screenshot/f329fb7a-4a69-4505-b652-7641d85212bf.png" alt="Screenshot 2" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="src/components/screenshot/f329fb7a-4a69-4505-b652-7641d85212bf.png" alt="Screenshot 3" width="300">
+    </td>
+    <td align="center">
+      <img src="src/components/screenshot/f329fb7a-4a69-4505-b652-7641d85212bf.png" alt="Screenshot 4" width="300">
+    </td>
+  </tr>
+</table>
 
 
 ## Usage
