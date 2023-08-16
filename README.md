@@ -51,7 +51,6 @@ Welcome to **Typing Geeks**, your go-to place to enhance your typing skills and 
     </td>
 </table>
 
-
 ## Usage
 
 1. Clone the repository: `git clone <https://github.com/Mr-Daksh/Typing-Geeks.git>`
@@ -59,10 +58,6 @@ Welcome to **Typing Geeks**, your go-to place to enhance your typing skills and 
 3. Install dependencies: `npm install`
 4. Run the project: `npm start`
 5. Explore typing tests, games, and educational content.
-
-## Demo
-
-Check out the live demo of **Typing Geeks** [here](localhost:3000).
 
 ## Contributing
 
